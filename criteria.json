@@ -1,0 +1,804 @@
+{
+  "companies": [
+    {
+      "companyName": "Tata Consultancy Services (TCS)",
+      "ctcLPA": "3.36 - 9.0",
+      "cgpaCutoff": 6.0,
+      "12thMarksCutoff": "60%",
+      "importantTopics": ["Aptitude", "Basic Programming (C/C++)", "SQL"],
+      "officialWebsite": "https://www.tcs.com/careers"
+    },
+    {
+      "companyName": "Infosys",
+      "ctcLPA": "3.6 - 9.5",
+      "cgpaCutoff": 6.0,
+      "12thMarksCutoff": "60%",
+      "importantTopics": ["DSA", "DBMS", "Java/Python", "Puzzles"],
+      "officialWebsite": "https://www.infosys.com/careers"
+    },
+    {
+      "companyName": "Wipro",
+      "ctcLPA": "3.5 - 10.0",
+      "cgpaCutoff": 6.0,
+      "12thMarksCutoff": "60%",
+      "importantTopics": ["Logical Reasoning", "Coding (Java/C++)", "Automata"],
+      "officialWebsite": "https://careers.wipro.com"
+    },
+    {
+      "companyName": "HCLTech",
+      "ctcLPA": "4.25 - 9.0",
+      "cgpaCutoff": 6.5,
+      "12thMarksCutoff": "60%",
+      "importantTopics": ["OOPS", "Data Structures", "Computer Networks"],
+      "officialWebsite": "https://www.hcltech.com/careers"
+    },
+    {
+      "companyName": "Cognizant",
+      "ctcLPA": "4.0 - 10.0",
+      "cgpaCutoff": 6.0,
+      "12thMarksCutoff": "60%",
+      "importantTopics": ["Automata Fix", "SQL", "Basic DSA"],
+      "officialWebsite": "https://careers.cognizant.com"
+    },
+    {
+      "companyName": "Tech Mahindra",
+      "ctcLPA": "3.25 - 5.5",
+      "cgpaCutoff": 6.0,
+      "12thMarksCutoff": "60%",
+      "importantTopics": ["Aptitude", "Basic Coding", "Storytelling/Verbal"],
+      "officialWebsite": "https://careers.techmahindra.com"
+    },
+    {
+      "companyName": "Capgemini",
+      "ctcLPA": "4.25 - 7.5",
+      "cgpaCutoff": 6.0,
+      "12thMarksCutoff": "60%",
+      "importantTopics": ["Pseudocode", "Game-based Aptitude", "English"],
+      "officialWebsite": "https://www.capgemini.com/careers"
+    },
+    {
+      "companyName": "Accenture",
+      "ctcLPA": "4.5 - 11.9",
+      "cgpaCutoff": 6.5,
+      "12thMarksCutoff": "60%",
+      "importantTopics": ["Cloud Basics", "Security", "DSA", "Verbal"],
+      "officialWebsite": "https://www.accenture.com/careers"
+    },
+    {
+      "companyName": "IBM",
+      "ctcLPA": "4.5 - 11.0",
+      "cgpaCutoff": 6.5,
+      "12thMarksCutoff": "60%",
+      "importantTopics": ["Cognitive Games", "English", "Basic Programming"],
+      "officialWebsite": "https://www.ibm.com/careers"
+    },
+    {
+      "companyName": "LTIMindtree",
+      "ctcLPA": "4.0 - 10.0",
+      "cgpaCutoff": 6.0,
+      "12thMarksCutoff": "60%",
+      "importantTopics": ["Coding (Medium level)", "SQL", "Automata"],
+      "officialWebsite": "https://www.ltimindtree.com/careers"
+    },
+    {
+      "companyName": "Google",
+      "ctcLPA": "30.0 - 60.0",
+      "cgpaCutoff": 7.5,
+      "12thMarksCutoff": "75%",
+      "importantTopics": ["Advanced DSA", "System Design", "Dynamic Programming"],
+      "officialWebsite": "https://careers.google.com"
+    },
+    {
+      "companyName": "Amazon",
+      "ctcLPA": "25.0 - 45.0",
+      "cgpaCutoff": 7.0,
+      "12thMarksCutoff": "70%",
+      "importantTopics": ["Trees", "Graphs", "Leadership Principles", "OOPS"],
+      "officialWebsite": "https://amazon.jobs"
+    },
+    {
+      "companyName": "Microsoft",
+      "ctcLPA": "20.0 - 50.0",
+      "cgpaCutoff": 7.5,
+      "12thMarksCutoff": "70%",
+      "importantTopics": ["String Manipulation", "System Design", "C++/C#"],
+      "officialWebsite": "https://careers.microsoft.com"
+    },
+    {
+      "companyName": "Meta",
+      "ctcLPA": "35.0 - 60.0+",
+      "cgpaCutoff": 7.5,
+      "12thMarksCutoff": "75%",
+      "importantTopics": ["Graph Theory", "DP", "Scalability", "React"],
+      "officialWebsite": "https://www.metacareers.com"
+    },
+    {
+      "companyName": "Apple",
+      "ctcLPA": "25.0 - 45.0",
+      "cgpaCutoff": 7.5,
+      "12thMarksCutoff": "75%",
+      "importantTopics": ["OS", "Swift/C++", "Low-level Design"],
+      "officialWebsite": "https://www.apple.com/careers"
+    },
+    {
+      "companyName": "Netflix",
+      "ctcLPA": "40.0 - 70.0",
+      "cgpaCutoff": 8.0,
+      "12thMarksCutoff": "75%",
+      "importantTopics": ["Distributed Systems", "Advanced Java/C++", "DSA"],
+      "officialWebsite": "https://jobs.netflix.com"
+    },
+    {
+      "companyName": "Uber",
+      "ctcLPA": "30.0 - 45.0",
+      "cgpaCutoff": 7.5,
+      "12thMarksCutoff": "75%",
+      "importantTopics": ["System Design", "Algorithms", "High-level Architecture"],
+      "officialWebsite": "https://www.uber.com/careers"
+    },
+    {
+      "companyName": "Airbnb",
+      "ctcLPA": "25.0 - 40.0",
+      "cgpaCutoff": 7.5,
+      "12thMarksCutoff": "75%",
+      "importantTopics": ["React", "Node.js", "Frontend Architecture", "DSA"],
+      "officialWebsite": "https://careers.airbnb.com"
+    },
+    {
+      "companyName": "LinkedIn",
+      "ctcLPA": "25.0 - 45.0",
+      "cgpaCutoff": 7.5,
+      "12thMarksCutoff": "75%",
+      "importantTopics": ["Java", "Concurrency", "API Design", "DSA"],
+      "officialWebsite": "https://careers.linkedin.com"
+    },
+    {
+      "companyName": "Atlassian",
+      "ctcLPA": "25.0 - 55.0",
+      "cgpaCutoff": 7.5,
+      "12thMarksCutoff": "75%",
+      "importantTopics": ["System Design", "React", "Core Java", "Problem Solving"],
+      "officialWebsite": "https://www.atlassian.com/company/careers"
+    },
+    {
+      "companyName": "Salesforce",
+      "ctcLPA": "18.0 - 32.0",
+      "cgpaCutoff": 7.0,
+      "12thMarksCutoff": "70%",
+      "importantTopics": ["Java", "DBMS", "Cloud concepts", "DSA"],
+      "officialWebsite": "https://www.salesforce.com/company/careers"
+    },
+    {
+      "companyName": "Adobe",
+      "ctcLPA": "20.0 - 40.0",
+      "cgpaCutoff": 7.0,
+      "12thMarksCutoff": "70%",
+      "importantTopics": ["OS Concepts", "Pointers", "Arrays", "OOPS (C++)"],
+      "officialWebsite": "https://www.adobe.com/careers"
+    },
+    {
+      "companyName": "Oracle",
+      "ctcLPA": "15.0 - 35.0",
+      "cgpaCutoff": 7.0,
+      "12thMarksCutoff": "70%",
+      "importantTopics": ["DBMS", "SQL Optimization", "Java", "Core OOPS"],
+      "officialWebsite": "https://www.oracle.com/careers"
+    },
+    {
+      "companyName": "Cisco",
+      "ctcLPA": "15.0 - 25.0",
+      "cgpaCutoff": 7.0,
+      "12thMarksCutoff": "70%",
+      "importantTopics": ["Computer Networks", "C/C++", "Embedded Systems"],
+      "officialWebsite": "https://jobs.cisco.com"
+    },
+    {
+      "companyName": "Intel",
+      "ctcLPA": "15.0 - 25.0",
+      "cgpaCutoff": 7.0,
+      "12thMarksCutoff": "70%",
+      "importantTopics": ["Digital Electronics", "OS", "C++", "Computer Architecture"],
+      "officialWebsite": "https://jobs.intel.com"
+    },
+    {
+      "companyName": "AMD",
+      "ctcLPA": "14.0 - 24.0",
+      "cgpaCutoff": 7.0,
+      "12thMarksCutoff": "70%",
+      "importantTopics": ["C++", "GPU Architecture", "OS concepts"],
+      "officialWebsite": "https://careers.amd.com"
+    },
+    {
+      "companyName": "Nvidia",
+      "ctcLPA": "18.0 - 35.0",
+      "cgpaCutoff": 7.5,
+      "12thMarksCutoff": "75%",
+      "importantTopics": ["C/C++", "CUDA", "Deep Learning basics", "OS"],
+      "officialWebsite": "https://www.nvidia.com/en-us/about-nvidia/careers"
+    },
+    {
+      "companyName": "Goldman Sachs",
+      "ctcLPA": "22.0 - 35.0",
+      "cgpaCutoff": 7.0,
+      "12thMarksCutoff": "75%",
+      "importantTopics": ["Mathematics", "Probability", "Hard DSA"],
+      "officialWebsite": "https://www.goldmansachs.com/careers"
+    },
+    {
+      "companyName": "JPMorgan Chase",
+      "ctcLPA": "15.0 - 24.0",
+      "cgpaCutoff": 7.0,
+      "12thMarksCutoff": "70%",
+      "importantTopics": ["Java", "Spring Boot", "DSA", "Puzzles"],
+      "officialWebsite": "https://careers.jpmorgan.com"
+    },
+    {
+      "companyName": "Morgan Stanley",
+      "ctcLPA": "16.0 - 25.0",
+      "cgpaCutoff": 7.0,
+      "12thMarksCutoff": "70%",
+      "importantTopics": ["Core Java", "Multithreading", "Algorithms"],
+      "officialWebsite": "https://www.morganstanley.com/careers"
+    },
+    {
+      "companyName": "Visa",
+      "ctcLPA": "18.0 - 28.0",
+      "cgpaCutoff": 7.0,
+      "12thMarksCutoff": "70%",
+      "importantTopics": ["Cryptography basics", "Java", "DSA"],
+      "officialWebsite": "https://www.visa.com/careers"
+    },
+    {
+      "companyName": "Mastercard",
+      "ctcLPA": "14.0 - 22.0",
+      "cgpaCutoff": 7.0,
+      "12thMarksCutoff": "70%",
+      "importantTopics": ["Java", "API Design", "Security", "DSA"],
+      "officialWebsite": "https://careers.mastercard.com"
+    },
+    {
+      "companyName": "American Express",
+      "ctcLPA": "14.0 - 20.0",
+      "cgpaCutoff": 7.0,
+      "12thMarksCutoff": "70%",
+      "importantTopics": ["Python", "SQL", "Machine Learning basics"],
+      "officialWebsite": "https://careers.americanexpress.com"
+    },
+    {
+      "companyName": "PayPal",
+      "ctcLPA": "18.0 - 30.0",
+      "cgpaCutoff": 7.0,
+      "12thMarksCutoff": "70%",
+      "importantTopics": ["Node.js", "Java", "System Design", "DSA"],
+      "officialWebsite": "https://www.paypal.com/us/webapps/mpp/jobs"
+    },
+    {
+      "companyName": "Stripe",
+      "ctcLPA": "30.0 - 50.0",
+      "cgpaCutoff": 7.5,
+      "12thMarksCutoff": "75%",
+      "importantTopics": ["API Design", "Practical Coding", "Ruby/Python"],
+      "officialWebsite": "https://stripe.com/jobs"
+    },
+    {
+      "companyName": "Intuit",
+      "ctcLPA": "20.0 - 35.0",
+      "cgpaCutoff": 7.5,
+      "12thMarksCutoff": "70%",
+      "importantTopics": ["Java", "React", "LLD", "HLD", "DSA"],
+      "officialWebsite": "https://careers.intuit.com"
+    },
+    {
+      "companyName": "Bloomberg",
+      "ctcLPA": "30.0 - 45.0",
+      "cgpaCutoff": 7.5,
+      "12thMarksCutoff": "75%",
+      "importantTopics": ["C++", "Python", "Advanced DSA", "OS"],
+      "officialWebsite": "https://www.bloomberg.com/careers"
+    },
+    {
+      "companyName": "Razorpay",
+      "ctcLPA": "15.0 - 25.0",
+      "cgpaCutoff": 7.0,
+      "12thMarksCutoff": "70%",
+      "importantTopics": ["PHP/Go", "Scalability", "Medium-Hard DSA"],
+      "officialWebsite": "https://razorpay.com/jobs"
+    },
+    {
+      "companyName": "PhonePe",
+      "ctcLPA": "18.0 - 35.0",
+      "cgpaCutoff": 7.0,
+      "12thMarksCutoff": "70%",
+      "importantTopics": ["Java", "High Concurrency", "DSA", "System Design"],
+      "officialWebsite": "https://phonepe.com/careers"
+    },
+    {
+      "companyName": "CRED",
+      "ctcLPA": "20.0 - 40.0",
+      "cgpaCutoff": 7.5,
+      "12thMarksCutoff": "70%",
+      "importantTopics": ["Backend Systems", "LLD", "Java/Go", "AWS"],
+      "officialWebsite": "https://careers.cred.club"
+    },
+    {
+      "companyName": "Groww",
+      "ctcLPA": "15.0 - 25.0",
+      "cgpaCutoff": 7.0,
+      "12thMarksCutoff": "70%",
+      "importantTopics": ["React Native", "Java", "Distributed Systems"],
+      "officialWebsite": "https://groww.in/careers"
+    },
+    {
+      "companyName": "Paytm",
+      "ctcLPA": "10.0 - 20.0",
+      "cgpaCutoff": 7.0,
+      "12thMarksCutoff": "70%",
+      "importantTopics": ["Node.js", "Java", "General DSA"],
+      "officialWebsite": "https://paytm.com/careers"
+    },
+    {
+      "companyName": "Pine Labs",
+      "ctcLPA": "12.0 - 18.0",
+      "cgpaCutoff": 7.0,
+      "12thMarksCutoff": "70%",
+      "importantTopics": ["Core Java", "Networking", "DBMS"],
+      "officialWebsite": "https://pinelabs.com/careers"
+    },
+    {
+      "companyName": "Zeta",
+      "ctcLPA": "20.0 - 35.0",
+      "cgpaCutoff": 7.5,
+      "12thMarksCutoff": "70%",
+      "importantTopics": ["Core Java", "OS", "System Design"],
+      "officialWebsite": "https://zeta.tech/careers"
+    },
+    {
+      "companyName": "BharatPe",
+      "ctcLPA": "15.0 - 25.0",
+      "cgpaCutoff": 7.0,
+      "12thMarksCutoff": "70%",
+      "importantTopics": ["Python", "Django", "System Architecture"],
+      "officialWebsite": "https://bharatpe.com/careers"
+    },
+    {
+      "companyName": "Flipkart",
+      "ctcLPA": "18.0 - 32.0",
+      "cgpaCutoff": 7.0,
+      "12thMarksCutoff": "70%",
+      "importantTopics": ["Machine Coding", "LLD", "Trees", "Graphs"],
+      "officialWebsite": "https://flipkartcareers.com"
+    },
+    {
+      "companyName": "Myntra",
+      "ctcLPA": "16.0 - 28.0",
+      "cgpaCutoff": 7.0,
+      "12thMarksCutoff": "70%",
+      "importantTopics": ["Java", "System Design", "E-commerce Logic"],
+      "officialWebsite": "https://careers.myntra.com"
+    },
+    {
+      "companyName": "Swiggy",
+      "ctcLPA": "18.0 - 35.0",
+      "cgpaCutoff": 7.0,
+      "12thMarksCutoff": "70%",
+      "importantTopics": ["Java/Go", "Algorithms", "Location-based Services"],
+      "officialWebsite": "https://careers.swiggy.com"
+    },
+    {
+      "companyName": "Zomato",
+      "ctcLPA": "18.0 - 35.0",
+      "cgpaCutoff": 7.0,
+      "12thMarksCutoff": "70%",
+      "importantTopics": ["React", "Node.js", "Data Engineering", "DSA"],
+      "officialWebsite": "https://www.zomato.com/careers"
+    },
+    {
+      "companyName": "Ola",
+      "ctcLPA": "12.0 - 24.0",
+      "cgpaCutoff": 7.0,
+      "12thMarksCutoff": "70%",
+      "importantTopics": ["Java", "Go", "Mapping Algorithms"],
+      "officialWebsite": "https://olaelectric.com/careers"
+    },
+    {
+      "companyName": "OYO",
+      "ctcLPA": "10.0 - 18.0",
+      "cgpaCutoff": 6.5,
+      "12thMarksCutoff": "65%",
+      "importantTopics": ["Ruby", "Java", "DBMS", "General Programming"],
+      "officialWebsite": "https://careers.oyorooms.com"
+    },
+    {
+      "companyName": "MakeMyTrip",
+      "ctcLPA": "12.0 - 20.0",
+      "cgpaCutoff": 7.0,
+      "12thMarksCutoff": "70%",
+      "importantTopics": ["Java", "Frontend (React)", "Search Algorithms"],
+      "officialWebsite": "https://careers.makemytrip.com"
+    },
+    {
+      "companyName": "Dream11",
+      "ctcLPA": "20.0 - 35.0",
+      "cgpaCutoff": 7.0,
+      "12thMarksCutoff": "70%",
+      "importantTopics": ["High-scale systems", "Java/Go", "Database Indexing"],
+      "officialWebsite": "https://about.dream11.in/careers"
+    },
+    {
+      "companyName": "ShareChat",
+      "ctcLPA": "15.0 - 30.0",
+      "cgpaCutoff": 7.0,
+      "12thMarksCutoff": "70%",
+      "importantTopics": ["Mobile Dev", "Backend", "Scalability"],
+      "officialWebsite": "https://sharechat.com/careers"
+    },
+    {
+      "companyName": "Meesho",
+      "ctcLPA": "18.0 - 32.0",
+      "cgpaCutoff": 7.0,
+      "12thMarksCutoff": "70%",
+      "importantTopics": ["Java", "Python", "LLD", "Android"],
+      "officialWebsite": "https://meesho.io/jobs"
+    },
+    {
+      "companyName": "Udaan",
+      "ctcLPA": "15.0 - 25.0",
+      "cgpaCutoff": 7.0,
+      "12thMarksCutoff": "70%",
+      "importantTopics": ["Kotlin", "Python", "Supply Chain Logic"],
+      "officialWebsite": "https://udaan.com/careers"
+    },
+    {
+      "companyName": "Delhivery",
+      "ctcLPA": "12.0 - 20.0",
+      "cgpaCutoff": 7.0,
+      "12thMarksCutoff": "70%",
+      "importantTopics": ["Node.js", "Python", "Routing Algorithms"],
+      "officialWebsite": "https://delhivery.com/careers"
+    },
+    {
+      "companyName": "Lenskart",
+      "ctcLPA": "10.0 - 18.0",
+      "cgpaCutoff": 6.5,
+      "12thMarksCutoff": "65%",
+      "importantTopics": ["Java", "Spring Boot", "Frontend Basics"],
+      "officialWebsite": "https://hiring.lenskart.com"
+    },
+    {
+      "companyName": "Upstox",
+      "ctcLPA": "15.0 - 25.0",
+      "cgpaCutoff": 7.0,
+      "12thMarksCutoff": "70%",
+      "importantTopics": ["Java", "Event-driven Architecture", "DSA"],
+      "officialWebsite": "https://upstox.com/careers"
+    },
+    {
+      "companyName": "Zerodha",
+      "ctcLPA": "15.0 - 25.0",
+      "cgpaCutoff": null,
+      "12thMarksCutoff": null,
+      "importantTopics": ["Open Source", "Python", "Go", "System Design"],
+      "officialWebsite": "https://zerodha.com/careers"
+    },
+    {
+      "companyName": "Postman",
+      "ctcLPA": "15.0 - 25.0",
+      "cgpaCutoff": 7.0,
+      "12thMarksCutoff": "70%",
+      "importantTopics": ["JavaScript", "Node.js", "API Architecture"],
+      "officialWebsite": "https://www.postman.com/company/careers"
+    },
+    {
+      "companyName": "BrowserStack",
+      "ctcLPA": "14.0 - 24.0",
+      "cgpaCutoff": 7.0,
+      "12thMarksCutoff": "70%",
+      "importantTopics": ["Ruby", "Java", "Networking Concepts"],
+      "officialWebsite": "https://www.browserstack.com/careers"
+    },
+    {
+      "companyName": "Freshworks",
+      "ctcLPA": "12.0 - 20.0",
+      "cgpaCutoff": 7.0,
+      "12thMarksCutoff": "70%",
+      "importantTopics": ["Ruby on Rails", "Ember.js", "Java", "DSA"],
+      "officialWebsite": "https://www.freshworks.com/company/careers"
+    },
+    {
+      "companyName": "Zoho",
+      "ctcLPA": "8.0 - 12.0",
+      "cgpaCutoff": null,
+      "12thMarksCutoff": null,
+      "importantTopics": ["C/C++", "Java", "Puzzles", "Core Logic"],
+      "officialWebsite": "https://www.zoho.com/careers"
+    },
+    {
+      "companyName": "Sprinklr",
+      "ctcLPA": "20.0 - 35.0",
+      "cgpaCutoff": 7.5,
+      "12thMarksCutoff": "70%",
+      "importantTopics": ["Java", "React", "Distributed Systems", "Graph DSA"],
+      "officialWebsite": "https://www.sprinklr.com/careers"
+    },
+    {
+      "companyName": "Samsung",
+      "ctcLPA": "14.0 - 22.0",
+      "cgpaCutoff": 7.0,
+      "12thMarksCutoff": "70%",
+      "importantTopics": ["Advanced C/C++", "Tree/Graph", "DP", "OS"],
+      "officialWebsite": "https://research.samsung.com/careers"
+    },
+    {
+      "companyName": "SAP Labs",
+      "ctcLPA": "12.0 - 22.0",
+      "cgpaCutoff": 7.0,
+      "12thMarksCutoff": "70%",
+      "importantTopics": ["Java", "C++", "DBMS", "ABAP basics"],
+      "officialWebsite": "https://jobs.sap.com"
+    },
+    {
+      "companyName": "VMware",
+      "ctcLPA": "18.0 - 32.0",
+      "cgpaCutoff": 7.0,
+      "12thMarksCutoff": "70%",
+      "importantTopics": ["C/C++", "Java", "OS Concepts", "Virtualization"],
+      "officialWebsite": "https://careers.vmware.com"
+    },
+    {
+      "companyName": "Qualcomm",
+      "ctcLPA": "15.0 - 25.0",
+      "cgpaCutoff": 7.5,
+      "12thMarksCutoff": "75%",
+      "importantTopics": ["C", "Bit Manipulation", "OS", "Wireless Comms"],
+      "officialWebsite": "https://www.qualcomm.com/company/careers"
+    },
+    {
+      "companyName": "Broadcom",
+      "ctcLPA": "18.0 - 30.0",
+      "cgpaCutoff": 7.5,
+      "12thMarksCutoff": "75%",
+      "importantTopics": ["Computer Architecture", "C/C++", "Networking"],
+      "officialWebsite": "https://www.broadcom.com/company/careers"
+    },
+    {
+      "companyName": "Texas Instruments",
+      "ctcLPA": "15.0 - 25.0",
+      "cgpaCutoff": 7.5,
+      "12thMarksCutoff": "75%",
+      "importantTopics": ["Analog/Digital Electronics", "C programming"],
+      "officialWebsite": "https://careers.ti.com"
+    },
+    {
+      "companyName": "Juniper Networks",
+      "ctcLPA": "15.0 - 25.0",
+      "cgpaCutoff": 7.0,
+      "12thMarksCutoff": "70%",
+      "importantTopics": ["C", "TCP/IP", "OS", "Data Structures"],
+      "officialWebsite": "https://www.juniper.net/us/en/company/careers"
+    },
+    {
+      "companyName": "Arista Networks",
+      "ctcLPA": "18.0 - 28.0",
+      "cgpaCutoff": 7.0,
+      "12thMarksCutoff": "70%",
+      "importantTopics": ["C/C++", "Python", "Networking Protocols"],
+      "officialWebsite": "https://arista.com/en/careers"
+    },
+    {
+      "companyName": "Palo Alto Networks",
+      "ctcLPA": "18.0 - 30.0",
+      "cgpaCutoff": 7.0,
+      "12thMarksCutoff": "70%",
+      "importantTopics": ["C/C++", "Python", "Network Security", "Go"],
+      "officialWebsite": "https://jobs.paloaltonetworks.com"
+    },
+    {
+      "companyName": "Fortinet",
+      "ctcLPA": "12.0 - 20.0",
+      "cgpaCutoff": 7.0,
+      "12thMarksCutoff": "70%",
+      "importantTopics": ["C", "Networking", "Linux OS"],
+      "officialWebsite": "https://www.fortinet.com/corporate/careers"
+    },
+    {
+      "companyName": "Nutanix",
+      "ctcLPA": "20.0 - 35.0",
+      "cgpaCutoff": 7.5,
+      "12thMarksCutoff": "75%",
+      "importantTopics": ["C/C++", "Systems Programming", "OS"],
+      "officialWebsite": "https://www.nutanix.com/company/careers"
+    },
+    {
+      "companyName": "Rubrik",
+      "ctcLPA": "25.0 - 40.0",
+      "cgpaCutoff": 7.5,
+      "12thMarksCutoff": "75%",
+      "importantTopics": ["C++", "Go", "Distributed File Systems", "DSA"],
+      "officialWebsite": "https://www.rubrik.com/company/careers"
+    },
+    {
+      "companyName": "Cohesity",
+      "ctcLPA": "25.0 - 40.0",
+      "cgpaCutoff": 7.5,
+      "12thMarksCutoff": "75%",
+      "importantTopics": ["C/C++", "OS", "Algorithms", "File Systems"],
+      "officialWebsite": "https://www.cohesity.com/company/careers"
+    },
+    {
+      "companyName": "Snowflake",
+      "ctcLPA": "30.0 - 50.0",
+      "cgpaCutoff": 7.5,
+      "12thMarksCutoff": "75%",
+      "importantTopics": ["Java", "C++", "Databases", "Cloud Architecture"],
+      "officialWebsite": "https://careers.snowflake.com"
+    },
+    {
+      "companyName": "Databricks",
+      "ctcLPA": "35.0 - 55.0",
+      "cgpaCutoff": 7.5,
+      "12thMarksCutoff": "75%",
+      "importantTopics": ["Scala", "Java", "Spark concepts", "Hard DSA"],
+      "officialWebsite": "https://www.databricks.com/company/careers"
+    },
+    {
+      "companyName": "ServiceNow",
+      "ctcLPA": "18.0 - 30.0",
+      "cgpaCutoff": 7.0,
+      "12thMarksCutoff": "70%",
+      "importantTopics": ["Java", "JavaScript", "Web Architecture"],
+      "officialWebsite": "https://careers.servicenow.com"
+    },
+    {
+      "companyName": "Workday",
+      "ctcLPA": "18.0 - 28.0",
+      "cgpaCutoff": 7.0,
+      "12thMarksCutoff": "70%",
+      "importantTopics": ["Java", "Object-Oriented Design", "XpressO"],
+      "officialWebsite": "https://www.workday.com/en-us/company/careers.html"
+    },
+    {
+      "companyName": "Fivetran",
+      "ctcLPA": "15.0 - 25.0",
+      "cgpaCutoff": 7.0,
+      "12thMarksCutoff": "70%",
+      "importantTopics": ["Java", "SQL", "Data Engineering logic"],
+      "officialWebsite": "https://www.fivetran.com/careers"
+    },
+    {
+      "companyName": "Epic Games",
+      "ctcLPA": "25.0 - 45.0",
+      "cgpaCutoff": 7.5,
+      "12thMarksCutoff": "75%",
+      "importantTopics": ["C++", "3D Math", "Computer Graphics"],
+      "officialWebsite": "https://www.epicgames.com/site/en-US/careers"
+    },
+    {
+      "companyName": "Electronic Arts (EA)",
+      "ctcLPA": "14.0 - 25.0",
+      "cgpaCutoff": 7.0,
+      "12thMarksCutoff": "70%",
+      "importantTopics": ["C++", "Game Engine basics", "DSA"],
+      "officialWebsite": "https://www.ea.com/careers"
+    },
+    {
+      "companyName": "Sony (India Software)",
+      "ctcLPA": "12.0 - 20.0",
+      "cgpaCutoff": 7.0,
+      "12thMarksCutoff": "70%",
+      "importantTopics": ["C/C++", "Embedded C", "Android Framework"],
+      "officialWebsite": "https://www.sony.co.in/microsite/careers"
+    },
+    {
+      "companyName": "Siemens",
+      "ctcLPA": "8.0 - 14.0",
+      "cgpaCutoff": 6.5,
+      "12thMarksCutoff": "65%",
+      "importantTopics": ["C/C++", "PLM", "Python", "Basic DSA"],
+      "officialWebsite": "https://jobs.siemens.com"
+    },
+    {
+      "companyName": "Bosch",
+      "ctcLPA": "7.0 - 12.0",
+      "cgpaCutoff": 6.5,
+      "12thMarksCutoff": "65%",
+      "importantTopics": ["Embedded C", "Python", "Automotive basics"],
+      "officialWebsite": "https://www.bosch.in/careers"
+    },
+    {
+      "companyName": "Honeywell",
+      "ctcLPA": "8.0 - 14.0",
+      "cgpaCutoff": 6.5,
+      "12thMarksCutoff": "65%",
+      "importantTopics": ["C/C++", "Java", "Control Systems"],
+      "officialWebsite": "https://careers.honeywell.com"
+    },
+    {
+      "companyName": "GE Digital",
+      "ctcLPA": "9.0 - 15.0",
+      "cgpaCutoff": 6.5,
+      "12thMarksCutoff": "65%",
+      "importantTopics": ["Java", "Python", "Cloud Computing"],
+      "officialWebsite": "https://jobs.gecareers.com"
+    },
+    {
+      "companyName": "Barclays",
+      "ctcLPA": "14.0 - 22.0",
+      "cgpaCutoff": 7.0,
+      "12thMarksCutoff": "70%",
+      "importantTopics": ["Java", "C++", "Spring", "UNIX"],
+      "officialWebsite": "https://search.jobs.barclays"
+    },
+    {
+      "companyName": "Wells Fargo",
+      "ctcLPA": "15.0 - 25.0",
+      "cgpaCutoff": 7.0,
+      "12thMarksCutoff": "70%",
+      "importantTopics": ["Java", ".NET", "SQL", "DSA"],
+      "officialWebsite": "https://wellsfargojobs.com"
+    },
+    {
+      "companyName": "DE Shaw",
+      "ctcLPA": "35.0 - 50.0",
+      "cgpaCutoff": 8.0,
+      "12thMarksCutoff": "75%",
+      "importantTopics": ["Math", "OS", "Core Java", "Advanced Algorithms"],
+      "officialWebsite": "https://www.deshawindia.com/careers"
+    },
+    {
+      "companyName": "Arcesium",
+      "ctcLPA": "25.0 - 40.0",
+      "cgpaCutoff": 7.5,
+      "12thMarksCutoff": "75%",
+      "importantTopics": ["Java", "Python", "Financial tech logic", "DSA"],
+      "officialWebsite": "https://www.arcesium.com/careers"
+    },
+    {
+      "companyName": "Directi",
+      "ctcLPA": "25.0 - 40.0",
+      "cgpaCutoff": 7.0,
+      "12thMarksCutoff": "70%",
+      "importantTopics": ["Dynamic Programming", "Graph Theory", "System Design"],
+      "officialWebsite": "https://careers.directi.com"
+    },
+    {
+      "companyName": "Media.net",
+      "ctcLPA": "18.0 - 30.0",
+      "cgpaCutoff": 7.0,
+      "12thMarksCutoff": "70%",
+      "importantTopics": ["Hard DSA", "C++", "Java", "Scaling"],
+      "officialWebsite": "https://careers.media.net"
+    },
+    {
+      "companyName": "Publicis Sapient",
+      "ctcLPA": "12.0 - 20.0",
+      "cgpaCutoff": 6.5,
+      "12thMarksCutoff": "65%",
+      "importantTopics": ["Java", "Node.js", "Cloud", "React"],
+      "officialWebsite": "https://careers.publicissapient.com"
+    },
+    {
+      "companyName": "Thoughtworks",
+      "ctcLPA": "10.0 - 15.0",
+      "cgpaCutoff": null,
+      "12thMarksCutoff": null,
+      "importantTopics": ["Clean Code", "OOPS", "Pair Programming", "Java"],
+      "officialWebsite": "https://www.thoughtworks.com/careers"
+    },
+    {
+      "companyName": "CGI",
+      "ctcLPA": "4.5 - 7.5",
+      "cgpaCutoff": 6.0,
+      "12thMarksCutoff": "60%",
+      "importantTopics": ["SQL", "Java", "Manual/Automation Testing"],
+      "officialWebsite": "https://www.cgi.com/en/careers"
+    },
+    {
+      "companyName": "Hexaware",
+      "ctcLPA": "4.0 - 6.0",
+      "cgpaCutoff": 6.0,
+      "12thMarksCutoff": "60%",
+      "importantTopics": ["Aptitude", "Basic Coding (Java/Python)"],
+      "officialWebsite": "https://jobs.hexaware.com"
+    }
+  ]
+}
